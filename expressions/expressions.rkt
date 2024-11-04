@@ -13,7 +13,9 @@
 (circle
  ; expressions for the function arguments
  10)
-; A result from the circle function is a picture value, which prints as an expression result in much the same way that numbers or strings print.
+; A result from the circle function is a picture value,
+; which prints as an expression result
+; in much the same way that numbers or strings print.
 
 (rectangle
  ; expressions for the function arguments
@@ -24,5 +26,8 @@
 (hc-append
  ; expressions for the function arguments
  (circle 10) (rectangle 10 20))
-; The hyphen in the name hc-append is just a part of the identifier; it’s not hc minus append. The function name starts with h because it combines pictures horizontally, and the next letter is c because the pictures are centered vertically.
+; The hyphen in the name hc-append is just a part of the identifier;
+; it’s not hc minus append.
+; The function name starts with h because it combines pictures horizontally,
+; and the next letter is c because the pictures are centered vertically.
 
