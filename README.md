@@ -1,2 +1,3 @@
 - [Установка Racket](install)
 - [Выражения](expressions)
+- [Дефиниции](definitions)
