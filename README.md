@@ -1,3 +1,4 @@
 - [Установка Racket](install)
 - [Выражения](expressions)
 - [Дефиниции](definitions)
+- [Локальные биндинги](local-bindings)
