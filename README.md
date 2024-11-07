@@ -2,3 +2,4 @@
 - [Выражения](expressions)
 - [Дефиниции](definitions)
 - [Локальные биндинги](local-bindings)
+- [Анонимные функции](lambda)
