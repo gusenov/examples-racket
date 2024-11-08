@@ -4,3 +4,4 @@
 - [Локальные биндинги](local-bindings)
 - [Анонимные функции](lambda)
 - [Определение вложенных функций](define-nested-fn)
+- [Lexical Scope](lexical-scope)
