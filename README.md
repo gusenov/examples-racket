@@ -6,3 +6,4 @@
 - [Определение вложенных функций](define-nested-fn)
 - [Lexical Scope](lexical-scope)
 - [Списки](lists)
+- [Относительные модули](relative-modules)
